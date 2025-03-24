@@ -1,0 +1,2 @@
+This data is written by running a python program.
+This is a new line written by append mode.
